@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fatiməsadixova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatiməsadixova" height="30" width="40" /></a>
 <a href="https://instagram.com/the_data.analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_data.analyst" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dataanalyticswithfatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dataanalyticswithfatima" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Dataanalyticswithfatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dataanalyticswithfatima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
