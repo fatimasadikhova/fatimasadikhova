@@ -1,4 +1,4 @@
-![MasterHead] (https://media.licdn.com/dms/image/v2/D4E16AQEPdVczT8MVvw/profile-displaybackgroundimage-shrink_350_1400/B4EZXT.NENGYAg-/0/1743018055768?e=1750896000&v=beta&t=2Kupi0gZHJ4piZljjY6X48YoUrXVfTtoh98iweY2FO4)
+
 
 
 <h1 align="center">Hi 👋, I'm Fatima</h1>
