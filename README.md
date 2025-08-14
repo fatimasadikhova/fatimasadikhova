@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">Data Analyst | Data Scientist | AI Engineeer</h3>
+<h3 align="center">Data Analyst | Data Scientist | AI Engineer</h3>
 
 
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fatim%C9%99-sad%C4%B1xzad%C9%99-5416a8373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatiməsadixova" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fatima.sadikhova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_data.analyst" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fatima.sadixova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_data.analyst" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Dataanalyticswithfatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dataanalyticswithfatima" height="30" width="40" /></a>
 </p>
 
