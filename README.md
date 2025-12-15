@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">Data Analyst | Data Scientist | AI Engineer</h3>
+<h3 align="center">Data Analyst | Data Engineer</h3>
 
 
 
