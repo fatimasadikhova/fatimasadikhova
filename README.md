@@ -1,114 +1,197 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:1F4E79&height=200&section=header&text=Fatima%20Sadıxova&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=HR%20Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=58&descSize=18" alt="header"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&lines=Turning+HR+data+into+people+insights+%F0%9F%93%8A;Power+BI+%7C+DAX+%7C+Power+Query+%7C+SQL;Attrition+%E2%80%A2+Headcount+%E2%80%A2+Recruitment+Analytics" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:1E3A8A,100:7C3AED&height=230&section=header&text=Fatima%20Sadıxova&fontSize=52&fontColor=E9D5FF&fontAlignY=36&desc=HR%20Data%20Analyst%20•%20Power%20BI%20Developer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatima-sad%C4%B1xova-5416a8373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@Dataanalyticswithfatima"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/fatima.sadixova/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
----
-
-## 👩‍💼 About Me
-
-I'm an **HR Data Analyst** who helps organizations make smarter people decisions with data.
-I design interactive **Power BI** dashboards that turn raw HR data into clear, actionable insights for HR leaders and management.
-
-- 📊 Building end-to-end HR reporting solutions in **Power BI** (data modeling, DAX, Power Query)
-- 👥 Focused on **People Analytics**: attrition, headcount, hiring and employee engagement
-- 🗄️ Preparing and transforming data with **SQL** and **Python**
-- 🎥 Sharing data analytics tutorials on my [YouTube channel](https://www.youtube.com/@Dataanalyticswithfatima)
-- 💬 Ask me about **Power BI, DAX, HR KPIs and dashboard design**
-
----
-
-## 📈 HR Analytics Focus Areas
-
-| Area | What I Analyze |
-|:---|:---|
-| 🔄 **Attrition & Retention** | Turnover rate, voluntary vs. involuntary exits, flight-risk drivers |
-| 👥 **Headcount & Workforce** | Headcount trends, demographics, department & location breakdowns |
-| 🎯 **Recruitment** | Time-to-hire, cost-per-hire, hiring funnel conversion, source effectiveness |
-| 💰 **Compensation** | Salary distribution, pay equity, compa-ratio analysis |
-| 😊 **Engagement & Performance** | Survey results, performance ratings, absenteeism |
-
----
-
-## 🛠️ Tech Stack
-
-**📊 BI & Visualization**
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-**🗄️ Databases & SQL**
-
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-**🐍 Programming & Analysis**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-**🔧 Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Layihə adlarını, linklərini və təsvirlərini öz layihələrinizlə əvəz edin -->
-
-| Project | Description | Tools |
-|:---|:---|:---|
-| 📊 [**HR Attrition Dashboard**](https://github.com/fatimasadikhova) | Analyzes employee turnover by department, tenure, age and salary band to identify key attrition drivers | Power BI, DAX |
-| 👥 [**Workforce Headcount Report**](https://github.com/fatimasadikhova) | Monthly headcount, hires vs. exits and workforce demographics in one interactive report | Power BI, SQL |
-| 🎯 [**Recruitment Funnel Analysis**](https://github.com/fatimasadikhova) | Tracks candidates from application to offer; time-to-hire and source effectiveness | Power BI, Power Query |
-| 🤖 [**Employee Attrition Prediction**](https://github.com/fatimasadikhova) | ML model predicting which employees are at risk of leaving | Python, scikit-learn |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fatimasadikhova&show_icons=true&hide_border=true&title_color=1F4E79&icon_color=F2C811&text_color=555555&bg_color=ffffff" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimasadikhova&layout=compact&hide_border=true&title_color=1F4E79&text_color=555555&bg_color=ffffff" alt="Top languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Turning+people+data+into+decisions+%E2%9C%A8;Power+BI+%E2%80%A2+DAX+%E2%80%A2+Power+Query+%E2%80%A2+Deneb;Designing+dashboards+with+a+UX+mindset" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fatimasadikhova&hide_border=true&ring=F2C811&fire=1F4E79&currStreakLabel=1F4E79" alt="GitHub streak"/>
+  <a href="https://www.linkedin.com/in/fatima-sad%C4%B1xova-5416a8373/"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@Dataanalyticswithfatima"><img src="https://img.shields.io/badge/YouTube-5B21B6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/fatima.sadixova/"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=fatimasadikhova&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
----
+<br/>
+
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:7C3AED&height=3" width="100%"/>
+
+### 👩‍💻 &nbsp;About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm an **HR Data Analyst** who designs **Power BI** dashboards that help organizations understand their people and their business.
+
+I treat every report like a product: clear KPIs, intuitive navigation and a story the user can follow in seconds.
+
+- 📊 &nbsp;End-to-end BI: data modeling, **DAX**, **Power Query**
+- 🎨 &nbsp;Custom visuals with **Deneb** & **HTML Content**
+- 👥 &nbsp;People Analytics: attrition, headcount, hiring
+- 🎥 &nbsp;Teaching analytics on [YouTube](https://www.youtube.com/@Dataanalyticswithfatima)
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name:     Fatima Sadıxova
+role:     HR Data Analyst
+location: Baku, Azerbaijan 🇦🇿
+focus:
+  - People Analytics
+  - Dashboard UX/UI
+  - Data Storytelling
+main_tool: Power BI ⚡
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ HR FOCUS ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:7C3AED&height=3" width="100%"/>
+
+### 📈 &nbsp;HR Analytics Expertise
+
+<table>
+<tr>
+<td align="center" width="20%">🔄<br/><b>Attrition</b><br/><sub>Turnover & retention drivers</sub></td>
+<td align="center" width="20%">👥<br/><b>Headcount</b><br/><sub>Workforce trends & demographics</sub></td>
+<td align="center" width="20%">🎯<br/><b>Recruitment</b><br/><sub>Time-to-hire & hiring funnel</sub></td>
+<td align="center" width="20%">💰<br/><b>Compensation</b><br/><sub>Pay equity & salary bands</sub></td>
+<td align="center" width="20%">😊<br/><b>Engagement</b><br/><sub>Surveys, performance, absence</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:7C3AED&height=3" width="100%"/>
+
+### 🛠️ &nbsp;Tech Stack
+
+<table>
+<tr>
+<td width="25%" align="center"><b>⚡ BI & Visualization</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Power_BI-0B1120?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/DAX-0B1120?style=for-the-badge&logo=powerbi&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Power_Query-0B1120?style=for-the-badge&logo=microsoft&logoColor=60A5FA"/>
+  <img src="https://img.shields.io/badge/Deneb-0B1120?style=for-the-badge&logo=vega&logoColor=C4B5FD"/>
+  <img src="https://img.shields.io/badge/Excel-0B1120?style=for-the-badge&logo=microsoftexcel&logoColor=4ADE80"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>
+  <img src="https://img.shields.io/badge/SQL_Server-0B1120?style=for-the-badge&logo=microsoftsqlserver&logoColor=F87171"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1120?style=for-the-badge&logo=postgresql&logoColor=60A5FA"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🐍 Programming</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=FB923C"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0B1120?style=for-the-badge&logo=tensorflow&logoColor=FB923C"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎨 UI & Tools</b></td>
+<td>
+  <img src="https://img.shields.io/badge/HTML_Content-0B1120?style=for-the-badge&logo=html5&logoColor=F97316"/>
+  <img src="https://img.shields.io/badge/SVG-0B1120?style=for-the-badge&logo=svg&logoColor=FFB13B"/>
+  <img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:7C3AED&height=3" width="100%"/>
+
+### 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/fatimasadikhova/Baku-Public-Transport-Analytics">
+  <img src="https://raw.githubusercontent.com/fatimasadikhova/Baku-Public-Transport-Analytics/main/report%20image.png" width="100%" alt="Baku Public Transport dashboard"/>
+</a>
+
+#### 🚇 Baku Public Transport Analytics
+
+Interactive dashboard analyzing passenger trips, passenger flow across Metro & BakuBus, and digital payment methods (Smart Card, NFC, QR) in Baku.
+
+`273M trips` &nbsp;`49.5% digital payments` &nbsp;`Metro network map`
+
+<img src="https://img.shields.io/badge/Power_BI-312E81?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/DAX-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deneb-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML_Content-312E81?style=flat-square"/>
+
+<a href="https://github.com/fatimasadikhova/Baku-Public-Transport-Analytics"><img src="https://img.shields.io/badge/View_Project_→-7C3AED?style=for-the-badge"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/fatimasadikhova/Adidas-Sales-Report-Power-BI">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E3A8A,100:7C3AED&height=220&text=Adidas%20Sales%20Report&fontSize=34&fontColor=E9D5FF&desc=Power%20BI%20Dashboard&descAlignY=68&descSize=16" width="100%" alt="Adidas Sales Report"/>
+</a>
+
+#### 👟 Adidas Sales Report
+
+Sales performance dashboard covering KPIs (sales, profit, units sold), regional distribution, sales channels, top cities, product categories and YoY growth.
+
+`KPI cards` &nbsp;`YoY growth` &nbsp;`Interactive filters`
+
+<img src="https://img.shields.io/badge/Power_BI-312E81?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/DAX-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_Query-312E81?style=flat-square"/>
+
+<a href="https://github.com/fatimasadikhova/Adidas-Sales-Report-Power-BI"><img src="https://img.shields.io/badge/View_Project_→-7C3AED?style=for-the-badge"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:7C3AED&height=3" width="100%"/>
+
+### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <i>"Behind every number is a person — I help organizations understand them better."</i> 💛
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fatimasadikhova&show_icons=true&hide_border=true&bg_color=0B1120&title_color=A78BFA&icon_color=60A5FA&text_color=CBD5E1&border_radius=12" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimasadikhova&layout=compact&hide_border=true&bg_color=0B1120&title_color=A78BFA&text_color=CBD5E1&border_radius=12" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:F2C811&height=100&section=footer" alt="footer"/>
+  <img src="https://streak-stats.demolab.com/?user=fatimasadikhova&hide_border=true&background=0B1120&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&stroke=1E3A8A&border_radius=12" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimasadikhova&bg_color=0B1120&color=A78BFA&line=7C3AED&point=60A5FA&area=true&area_color=7C3AED&hide_border=true&radius=12" width="100%" alt="activity graph"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<p align="center">
+  <i>“Behind every number is a person — I design dashboards that help people see it.”</i> 💜
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1E3A8A,100:0B1120&height=120&section=footer" width="100%" alt="footer"/>
 </p>
